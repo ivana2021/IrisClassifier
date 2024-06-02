@@ -1,2 +1,2 @@
-# IncomePredict
-Deployment Machine Learning Model using Ensemble Learning 
+IRIS CLASSIFICATION
+Deployment of Machine Learning Model using Ensemble Learning 
